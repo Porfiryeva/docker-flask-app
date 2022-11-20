@@ -45,6 +45,8 @@ app/models/pipeline.dill - предобученная модель
 
 ### Переход на localhost:8180
 
-Client.ipynb - проверка работоспособности
+app/models/Client.ipynb - проверка работоспособности
+
 app/models/Model_Pipeline.ipynb - Pipeline и предобучение модели
+
 app/models/pipeline.dill - предобученная модель
