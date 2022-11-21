@@ -37,6 +37,7 @@
 
 ### Запуск контейнера
 app/models/pipeline.dill - предобученная модель
+
 <local_path_to_models> нужно заменить на полный путь к локальному каталогу.
 
 ```csharp
@@ -44,6 +45,7 @@ app/models/pipeline.dill - предобученная модель
 ```
 
 ### Переход на localhost:8180
+
 
 app/models/Client.ipynb - проверка работоспособности
 
