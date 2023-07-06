@@ -2,9 +2,9 @@
 
 Итоговый проект курса "Машинное обучение в бизнесе"
 
-Стек:
-- ML: sklearn, pandas, numpy
-- API: flask
+- Стек:
+   - ML: sklearn, pandas, numpy
+   - API: flask
 
 
 - Data: kaggle - https://www.kaggle.com/datasets/uciml/adult-census-income
